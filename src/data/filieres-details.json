@@ -4,7 +4,7 @@
     "name": "Médecine Générale",
     "slug": "medecine-generale",
     "category": "Sciences de la Santé",
-    "description": "La formation 5555en Médecine Générale prépare des praticiens polyvalents capables de diagnostiquer, traiter et prévenir les maladies. Cette formation de 7 ans combine sciences fondamentales, clinique et stages hospitaliers pour former des médecins compétents et humains.",
+    "description": " Formation préparant des praticiens polyvalents capables de diagnostiquer, traiter et prévenir les maladies. Développe des médecins compétents et humains.",
     "duration": "7 ans",
     "careerOpportunities": [
       "Médecin généraliste",
@@ -31,7 +31,7 @@
     "name": "Droit",
     "slug": "droit",
     "category": "Sciences Juridiques et Politiques",
-    "description": "La formation en Droit développe une expertise approfondie du système juridique, des institutions et des procédures légales. Cette filière forme des juristes capables d'analyser, interpréter et appliquer le droit dans diverses situations professionnelles.",
+    "description": " Formation des juristes capables d'analyser, interpréter et appliquer le droit dans diverses situations professionnelles. Développe une expertise approfondie du système juridique, des institutions et des procédures légales. ",
     "duration": "4-5 ans",
     "careerOpportunities": [
       "Avocat",
@@ -59,7 +59,7 @@
     "name": "Informatique",
     "slug": "informatique",
     "category": "Sciences et Technologies",
-    "description": "La formation en Informatique couvre la programmation, les systèmes d'information, les réseaux et l'intelligence artificielle. Cette filière prépare aux métiers du numérique en forte croissance, alliant théorie informatique et applications pratiques.",
+    "description": " Formation en métiers du numérique, alliant théorie informatique et applications pratiques. Développe une expertise en programmation,  systèmes d'information,  réseaux et intelligence artificielle. ",
     "duration": "3-5 ans",
     "careerOpportunities": [
       "Développeur logiciel",
@@ -115,7 +115,7 @@
     "name": "Économie",
     "slug": "economie",
     "category": "Sciences Économiques et de Gestion",
-    "description": "La formation en Économie développe la compréhension des mécanismes économiques, des politiques publiques et des marchés financiers. Cette filière forme des analystes capables d'interpréter et d'influencer les dynamiques économiques.",
+    "description": " La formation en Économie forment des analystes capables d'interpréter et d'influencer les dynamiques économiques. Développe la compréhension des mécanismes économiques, des politiques publiques et des marchés financiers. ",
     "duration": "3-5 ans",
     "careerOpportunities": [
       "Économiste",
@@ -143,7 +143,7 @@
     "name": "Agriculture",
     "slug": "agriculture",
     "category": "Sciences Agricoles et Environnementales",
-    "description": "La formation en Agriculture moderne intègre les techniques traditionnelles et les innovations technologiques pour optimiser la production agricole. Cette filière prépare aux défis de la sécurité alimentaire et du développement rural durable.",
+    "description": " La formation en Agriculture prépare aux défis de la sécurité alimentaire et du développement rural durable. Cette filière développe les techniques traditionnelles et les innovations technologiques pour optimiser la production agricole. ",
     "duration": "3-5 ans",
     "careerOpportunities": [
       "Ingénieur agronome",
@@ -171,7 +171,7 @@
     "name": "Gestion",
     "slug": "gestion",
     "category": "Sciences Économiques et de Gestion",
-    "description": "La formation en Gestion développe les compétences managériales, financières et stratégiques nécessaires à la direction d'organisations. Cette filière polyvalente ouvre sur de nombreux secteurs d'activité.",
+    "description": "La formation en Gestion est une filière polyvalente ouvrant sur de nombreux secteurs d'activité. Développe les compétences managériales, financières et stratégiques nécessaires à la direction d'organisations. ",
     "duration": "3-5 ans",
     "careerOpportunities": [
       "Manager d'équipe",
@@ -199,7 +199,7 @@
     "name": "Génie Électrique",
     "slug": "genie-electrique",
     "category": "Sciences et Technologies",
-    "description": "Le Génie Électrique forme des spécialistes en systèmes électriques, électroniques et énergétiques. Cette formation couvre la production, transport et utilisation de l'énergie électrique dans tous les secteurs.",
+    "description": "Le Génie Électrique forme des spécialistes en systèmes électriques, électroniques et énergétiques.Elle couvre la production, transport et utilisation de l'énergie électrique dans tous les secteurs.",
     "duration": "5 ans",
     "careerOpportunities": [
       "Ingénieur électricien",
@@ -227,7 +227,7 @@
     "name": "Aquaculture",
     "slug": "aquaculture",
     "category": "Sciences Agricoles et Environnementales",
-    "description": "L'Aquaculture forme des experts en élevage aquatique, gestion des ressources halieutiques et développement de la pisciculture. Cette spécialité technique répond aux enjeux de sécurité alimentaire et de développement côtier.",
+    "description": "L'Aquaculture forme des experts en élevage aquatique, gestion des ressources halieutiques et développement de la pisciculture. Elle répond aux enjeux de sécurité alimentaire et de développement côtier.",
     "duration": "3 ans",
     "careerOpportunities": [
       "Aquaculteur professionnel",
@@ -254,7 +254,7 @@
     "name": "Horticulture et Aménagement des espaces Verts",
     "slug": "horticulture-amenagement-espaces-verts",
     "category": "Sciences Agricoles et Environnementales",
-    "description": "Cette formation spécialisée développe l'expertise en production horticole, aménagement paysager et gestion des espaces verts urbains et ruraux. Une filière qui allie esthétique, écologie et techniques culturales.",
+    "description": " Une filière qui allie esthétique, écologie et techniques culturales. Développe l'expertise en production horticole, aménagement paysager et gestion des espaces verts urbains et ruraux.",
     "duration": "3 ans",
     "careerOpportunities": [
       "Paysagiste concepteur",
@@ -281,7 +281,7 @@
     "name": "Gestion et Production Végétale et Semencière",
     "slug": "gestion-production-vegetale-semenciere",
     "category": "Sciences Agricoles et Environnementales",
-    "description": "Formation spécialisée dans la production végétale, la recherche semencière et l'amélioration des variétés cultivées. Cette filière stratégique contribue à la sécurité alimentaire et à l'innovation agricole.",
+    "description": "Formation spécialisée dans la production végétale, la recherche semencière et l'amélioration des variétés cultivées. Cette filière contribue à la sécurité alimentaire et à l'innovation agricole.",
     "duration": "3 ans",
     "careerOpportunities": [
       "Sélectionneur de variétés",
@@ -308,7 +308,7 @@
     "name": "Industrie des Produits Agro-Alimentaires et Nutrition Humaine",
     "slug": "industrie-produits-agro-alimentaires-nutrition",
     "category": "Sciences Agricoles et Environnementales",
-    "description": "Cette formation polyvalente couvre la transformation agroalimentaire, la sécurité sanitaire et la nutrition humaine. Elle prépare aux enjeux modernes de l'industrie alimentaire et de la santé nutritionnelle.",
+    "description": "Cette formation polyvalente couvre la transformation agroalimentaire, la sécurité sanitaire et la nutrition humaine et prépare aux enjeux modernes de l'industrie alimentaire et de la santé nutritionnelle.",
     "duration": "3 ans",
     "careerOpportunities": [
       "Ingénieur agroalimentaire",
@@ -335,7 +335,7 @@
     "name": "Industrie des Bio-Ressources",
     "slug": "industrie-bio-ressources",
     "category": "Sciences Agricoles et Environnementales",
-    "description": "Formation innovante axée sur la valorisation des ressources biologiques et le développement de bio-produits. Cette filière d'avenir combine biotechnologies et développement durable.",
+    "description": "Formation sur la valorisation des ressources biologiques et le développement de bio-produits. Elle combine biotechnologies et développement durable.",
     "duration": "3 ans",
     "careerOpportunities": [
       "Ingénieur en biotechnologies",
@@ -497,7 +497,7 @@
     "name": "Finance agricole",
     "slug": "finance-agricole",
     "category": "Sciences Économiques et de Gestion",
-    "description": "Spécialisation en financement du secteur agricole, microfinance rurale et gestion des risques agricoles. Formation essentielle pour le développement économique rural.",
+    "description": " Spécialisation en financement du secteur agricole, microfinance rurale et gestion des risques agricoles. ",
     "duration": "3 ans",
     "careerOpportunities": [
       "Conseiller en crédit agricole",
@@ -551,7 +551,7 @@
     "name": "Marketing des Intrants et Produits Agricoles",
     "slug": "marketing-intrants-produits-agricoles",
     "category": "Sciences Économiques et de Gestion",
-    "description": "Spécialisation en commercialisation des produits agricoles, distribution d'intrants et développement de marchés agricoles. Formation clé pour l'économie agricole.",
+    "description": " Formation clé pour l'économie agricole. Spécialisation en commercialisation des produits agricoles, distribution d'intrants et développement de marchés agricoles. ",
     "duration": "3 ans",
     "careerOpportunities": [
       "Responsable marketing agricole",
@@ -578,7 +578,7 @@
     "name": "Sociologie rurale et Vulgarisation Agricole",
     "slug": "sociologie-rurale-vulgarisation-agricole",
     "category": "Lettres, Arts et Sciences Humaines",
-    "description": "Formation unique combinant sociologie rurale et techniques de vulgarisation agricole. Prépare aux métiers du développement rural participatif et de l'accompagnement des communautés.",
+    "description": "Formation en sociologie rurale et techniques de vulgarisation agricole. Prépare aux métiers du développement rural participatif et de l'accompagnement des communautés.",
     "duration": "3 ans",
     "careerOpportunities": [
       "Agent de développement rural",
